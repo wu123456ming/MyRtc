@@ -1,2 +1,0 @@
-# MyRtc
-a demo
